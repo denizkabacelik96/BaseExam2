@@ -1,0 +1,1 @@
+DelegateExam Delegate'ler adındanda anlayabileceğimiz gibi metotlara temsilcilik/elçilik yapmaktadır.Delegeler yapılacak işleri sıralı bir şekilde yerine getirmemizi sağlamaktadır. Delegeler işaret ettiği metod zincirini çalıştırmaktadır.

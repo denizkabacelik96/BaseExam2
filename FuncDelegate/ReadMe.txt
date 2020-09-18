@@ -1,0 +1,1 @@
+Func Delegate'ler dışarıya değer vermelidirler.Linq ile sık sık kullanılmaktadır.

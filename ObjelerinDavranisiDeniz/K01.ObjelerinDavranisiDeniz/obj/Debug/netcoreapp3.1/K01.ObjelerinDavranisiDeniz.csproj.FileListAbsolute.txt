@@ -1,0 +1,15 @@
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\bin\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.exe
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\obj\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.csprojAssemblyReference.cache
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\obj\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\obj\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.AssemblyInfo.cs
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\bin\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.deps.json
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\bin\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.runtimeconfig.json
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\bin\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.runtimeconfig.dev.json
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\bin\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.dll
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\bin\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.pdb
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\bin\Debug\netcoreapp3.1\FakeData.dll
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\obj\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\obj\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.csproj.CopyComplete
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\obj\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.dll
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\obj\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.pdb
+C:\Users\deniz\source\repos\K01.ObjelerinDavranisiDeniz\K01.ObjelerinDavranisiDeniz\obj\Debug\netcoreapp3.1\K01.ObjelerinDavranisiDeniz.genruntimeconfig.cache

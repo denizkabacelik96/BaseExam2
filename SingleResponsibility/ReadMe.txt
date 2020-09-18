@@ -1,0 +1,1 @@
+Single Responsibily  her öğenin(her metodun,her sınıfın, her katmanın) sadece ama sadece bir görevi  olması gerektiğini  söylemektedir.
